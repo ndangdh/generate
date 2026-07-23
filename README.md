@@ -11,6 +11,8 @@ https://ndangdh.github.io/generate/
 - Generates names, usernames, email addresses, phone numbers, and U.S. addresses
 - Supports 1 to 20 records per request
 - Copy individual fields or an entire formatted record with visual and accessible feedback
+- Static client-side password gate
+- Persistent Light and Dark themes
 - Responsive layout for desktop and mobile
 - Runs entirely in the browser with no server-side runtime or external dependencies
 
